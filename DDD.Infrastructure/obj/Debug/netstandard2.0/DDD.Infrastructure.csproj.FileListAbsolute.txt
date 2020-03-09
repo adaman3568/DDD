@@ -1,0 +1,11 @@
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\bin\Debug\netstandard2.0\DDD.Infrastructure.deps.json
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\bin\Debug\netstandard2.0\DDD.Infrastructure.dll
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\bin\Debug\netstandard2.0\DDD.Infrastructure.pdb
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\bin\Debug\netstandard2.0\DDD.Domain.dll
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\bin\Debug\netstandard2.0\DDD.Domain.pdb
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\obj\Debug\netstandard2.0\DDD.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\obj\Debug\netstandard2.0\DDD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\obj\Debug\netstandard2.0\DDD.Infrastructure.AssemblyInfo.cs
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\obj\Debug\netstandard2.0\DDD.Infrastructure.csproj.CopyComplete
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\obj\Debug\netstandard2.0\DDD.Infrastructure.dll
+C:\Users\Hiroshi\source\repos\DDDStudy\DDD.Infrastructure\obj\Debug\netstandard2.0\DDD.Infrastructure.pdb
